@@ -77,7 +77,6 @@ The repository is designed for **learning, experimentation, and practice** with 
 
 * Interactive **document drafting assistant**
 * Uses tools:
-
   * `update(content)` → modify document
   * `save(filename)` → persist document
 * Agent decides when to update vs save
@@ -100,7 +99,6 @@ The repository is designed for **learning, experimentation, and practice** with 
 
 * Tool-using reasoning agent (ReAct-style)
 * Math tools:
-
   * add
   * subtract
   * multiply
@@ -175,6 +173,14 @@ jupyter notebook
 * Implement real-world RAG systems
 * Practice clean agent architecture
 
+---
+
+## 📄 License
+
+This project is for **educational and experimental purposes**.
+
+---
+
 ## 🧠 README.md
 
 * Project purpose and learning objectives
@@ -192,12 +198,6 @@ jupyter notebook
 * Recommended learning path for agents and notebooks
 
 * Best practices for experimenting with agentic workflows
-
----
-
-## 📄 License
-
-This project is for **educational and experimental purposes**.
 
 ---
 
