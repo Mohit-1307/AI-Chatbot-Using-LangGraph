@@ -137,8 +137,8 @@ Hands-on practice exercises to reinforce LangGraph concepts and agent design pat
 
 ---
 
-## .gitignore
-https://git-scm.com/images/logos/downloads/Git-Icon-Black.svg
+## ⚙️ .gitignore
+
 Ignore rules for Python, Jupyter, virtual environments, and system files.
 
 ---
