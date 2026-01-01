@@ -217,7 +217,7 @@ Happy building 🚀
 ---
 
 ## ▶️ How to Run
-git clone https://github.com/Mohit-1307/LangGraph Agent Lab.git
+git clone https://github.com/Mohit-1307/LangGraph-Agent-Lab.git
 
 ---
 
