@@ -30,23 +30,23 @@ The repository is designed for **learning, experimentation, and practice** with 
 ## 🧠 Key Concepts Covered
 
 * LangGraph **StateGraph** fundamentals
-* 
+ 
 * Agent state management with **TypedDict**
-* 
+  
 * Message handling (`HumanMessage`, `AIMessage`, `ToolMessage`)
-* 
+  
 * Tool calling & tool routing
-* 
+  
 * Conditional graph execution
-* 
+  
 * Memory persistence across turns
-* 
+  
 * Document drafting and saving via tools
-* 
+  
 * Retrieval-Augmented Generation (RAG)
-* 
+  
 * Vector databases with **ChromaDB**
-* 
+  
 * Ollama local LLM integration
 
 ---
