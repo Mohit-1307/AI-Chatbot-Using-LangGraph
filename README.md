@@ -135,19 +135,42 @@ End-to-end Retrieval-Augmented Generation (RAG) agent using PDF documents and Ch
 
 Hands-on practice exercises to reinforce LangGraph concepts and agent design patterns.
 
-### 1️⃣2️⃣ .gitignore
+---
+
+### https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png .gitignore
 
 Ignore rules for Python, Jupyter, virtual environments, and system files.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="26"/> Python 3.10+
+
+* <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="26"/> LangGraph
+
+* <img src="https://avatars.githubusercontent.com/u/126733545?s=200&v=4" height="26"/> LangChain
+
+* <img src="https://avatars.githubusercontent.com/u/151674099?s=200&v=4" height="26"/> Ollama
+
+* <img src="https://avatars.githubusercontent.com/u/103377991?s=200&v=4" height="26"/> ChromaDB
+
+* <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="26"/> Jupyter Notebook
 
 ---
 
 ## ▶️ How to Run
 
 git clone https://github.com/Mohit-1307/LangGraph-Agent-Lab.git
+
 cd LangGraph-Agent-Lab
+
 pip install langchain langgraph langchain-ollama langchain-chroma chromadb
+
 ollama pull llama3.2
+
 ollama pull gemma:2b
+
 ollama pull mxbai-embed-large
 
 ---
