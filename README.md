@@ -199,10 +199,7 @@ Happy building 🚀
 ---
 
 ## ▶️ How to Run
-git clone https://github.com/Mohit-1307/machine-learning-blueprint.git
-cd machine-learning-blueprint
-pip install -r requirements.txt
-jupyter notebook
+git clone https://github.com/Mohit-1307/AI-ChatBot-Using-LangGraph.git
 
 ---
 
