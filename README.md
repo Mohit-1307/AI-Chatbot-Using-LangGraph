@@ -217,7 +217,7 @@ Happy building 🚀
 ---
 
 ## ▶️ How to Run
-git clone https://github.com/Mohit-1307/AI-ChatBot-Using-LangGraph.git
+git clone https://github.com/Mohit-1307/LangGraph Agent Lab.git
 
 ---
 
