@@ -165,9 +165,9 @@ Ignore rules for Python, Jupyter, virtual environments, and system files.
 
 ### 1️⃣ Clone the Repository
 
-git clone https://github.com/LangGraph-Agent_Lab.git
+git clone https://github.com/LangGraph-Agent-Lab.git
 
-cd LangGraph-Agent_Lab
+cd LangGraph-Agent-Lab
 
 ### 2️⃣ (Optional but Recommended) Create a Virtual Environment
 
