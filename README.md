@@ -75,7 +75,7 @@ This repository is ideal for:
 
 7. looping_agent.ipynb – Iterative agent execution
 
-🟣 Phase 3 – Multi-Agent Systems
+🟣 Phase 3 – Multi-Input Systems
 
 8. multiple_input.ipynb – Agent coordination
 
